@@ -16,8 +16,7 @@
 
 ## 📊 GitHub Stats:
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=hikari&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" alt="github stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hikari&theme=tokyonight&hide_border=false" alt="github stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hikari&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="github stats"/> 
+<img src="https://github-readme-stats.vercel.app/api?username=zen-Hikari&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" alt="github stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zen-Hikari&theme=tokyonight&hide_border=false" alt="github stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zen-Hikari&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="github stats"/> 
 </div>
-
