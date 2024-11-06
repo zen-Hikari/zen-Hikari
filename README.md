@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Noval Hasmi Wijaya</h1>
 <h3 align="center">A passionate Front-End developer & Game Developer from Indonesia</h3>
 
-<img align="right" alt="luffy" width="500" src="https://raw.githubusercontent.com/novaldanorel/walpaper/refs/heads/main/Banner%20Gifs.gif">
+<img align="right" alt="luffy" width="400" src="https://raw.githubusercontent.com/novaldanorel/walpaper/refs/heads/main/Banner%20Gifs.gif">
 
 <h3>🍖About Me:</h3>
 <p>- 🔭 I’m currently working on <b> Front-End Developer & Game Developer</b></p>
