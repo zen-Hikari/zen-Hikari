@@ -55,7 +55,7 @@
   <img src="https://skillicons.dev/icons?i=linux,kali" />
 </p>
 
-### Tech Stack
+### Build Tool
 <p>
   <img src="https://skillicons.dev/icons?i=vite" />
 </p>
