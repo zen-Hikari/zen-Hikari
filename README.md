@@ -35,10 +35,28 @@
 
 ---
 
-## ⚡ Tech Stack:
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,nodejs,python,cs,flutter,unity,git,linux,arduino,mysql,postgres" />
+## ⚡ **Tech Stack:**
+
+### Front-End Development 🌐
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap" />
 </p>
+
+### Back-End Development 🚀
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,python,mysql,postgres" />
+</p>
+
+### Game Development 🎮
+<p>
+  <img src="https://skillicons.dev/icons?i=cs,unity,godot" />
+</p>
+
+### Bug Bounty & Security 🔐
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,kali" />
+</p>
+
 
 ---
 
