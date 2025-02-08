@@ -21,7 +21,6 @@
   - **Node.js** 🚀  
   - **Python** 🐍  
 
----
 
 🔍 **Exploring the world of Bug Bounty Hunting** 🔐
 
@@ -36,7 +35,6 @@
 ---
 
 ## ⚡ **Tech Stack:**
-
 ### Front-End Development 🌐
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap" />
@@ -55,6 +53,11 @@
 ### Bug Bounty & Security 🔐
 <p>
   <img src="https://skillicons.dev/icons?i=linux,kali" />
+</p>
+
+### Tech Stack
+<p>
+  <img src="https://skillicons.dev/icons?i=vite" />
 </p>
 
 
