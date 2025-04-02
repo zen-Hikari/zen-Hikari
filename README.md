@@ -50,7 +50,7 @@
   <img src="https://skillicons.dev/icons?i=cs,unity,godot" />
 </p>
 
-### Bug Bounty & Security 🔐
+### My Linux 🐧
 <p>
   <img src="https://skillicons.dev/icons?i=linux,kali" />
 </p>
