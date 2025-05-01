@@ -66,8 +66,8 @@
 ## 📊 GitHub Stats:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=zen-Hikari&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zen-Hikari&theme=tokyonight&hide_border=false" alt="GitHub Streak"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zen-Hikari&theme=tokyonight&hide_border=false&layout=compact" alt="Top Languages"/> 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zen-Hikari&theme=tokyonight&hide_border=false" alt="GitHub Streak"/>
 </p>
 
 ---
