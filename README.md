@@ -52,7 +52,8 @@
 
 ### My Linux 🐧
 <p>
-  <img src="https://skillicons.dev/icons?i=linux,kali" />
+  <img src="https://raw.githubusercontent.com/novaldanorel/walpaper/7a06274f880d8fadd98c684d4b43f09a67011580/Pop!_OS_Icon.svg" height="40" style="display: inline-block; margin-right: 10px;" />
+  <img src="https://skillicons.dev/icons?i=kali" />
 </p>
 
 ### Build Tool
