@@ -29,7 +29,7 @@
   - **Game Development** 🎮
 
 ⚡ **Fun fact:**  
-  - **Windows user** but **planning to switch to Linux** 🐧
+  - *I use pop!_os for my daily life* 🐧
 
 
 ---
