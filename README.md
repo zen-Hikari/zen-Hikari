@@ -29,7 +29,7 @@
   - **Game Development** 🎮
 
 ⚡ **Fun fact:**  
-  - *I use pop!_os for my daily life* 🐧
+  - *I use Linux for my daily life* 🐧
 
 
 ---
