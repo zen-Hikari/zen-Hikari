@@ -1,4 +1,4 @@
-[![MasterHead](https://camo.githubusercontent.com/4fd007a9db2f46b92856dbba073aea1b9e0b927473eb566a2a8d5ccb5d819b0f/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f63362f33332f63322f63363333633230656465383266306530636564376435373064626533613166332e676966)](https://github.com/zen-Hikari)
+[![MasterHead](https://raw.githubusercontent.com/novaldanorel/walpaper/refs/heads/main/Mario-code-gif.gif)](https://github.com/zen-Hikari)
 
 <h1 align="center">Hi 👋, I'm Noval Hasmi Wijaya</h1>
 <h3 align="center">🚀 Front-End Developer | 🎮 Game Developer | 🔥 Bug Hunter</h3>
